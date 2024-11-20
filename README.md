@@ -1,2 +1,0 @@
-# Thoughnuts2
-Exercise
