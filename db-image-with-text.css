@@ -19,8 +19,9 @@
     
     .db-image-with-text{
         flex-direction: column;
-    }
-    .db-image-with-text{
         width: 90%;
+    }
+    .db-image-with-text-words{
+        max-width: 90%;
     }
 }

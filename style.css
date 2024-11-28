@@ -54,6 +54,10 @@ ul, li{
     padding: 0;
 }
 
+.db-container--graybg{
+    background-color: #f5f5f5;
+}
+
 .db-cta-button{
     border: 1px solid #fff;
     border-radius: 5px;

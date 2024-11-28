@@ -1,0 +1,62 @@
+.db-multigrid-container{
+    max-width: 1248px;
+    margin: auto;
+    padding: 5rem;
+    text-align: center;
+}
+
+.db-multigrid-container-inner{
+    margin: auto;
+    width: 68%;
+}
+
+.db-multigrid-collection{
+    display: flex;
+    gap: 20px;
+    padding: 50px 0px;
+}
+
+.db-collection{
+    display: flex;
+    flex: 1;
+}
+
+.db-multigrid-small{
+    flex-wrap: wrap;
+    gap: 23px 20px;
+}
+
+.db-multigrid-item--small{
+    flex: 0 0 calc(50% - 10px);
+    height: 264px;
+    background-image: url(assets/images/donut2.png);
+
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.db-multigrid-item--large{
+    flex: 1;
+    background-image: url(assets/images/donut1.png);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a.product-5 span {
+    position: absolute;
+    bottom: 36px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 40px!important;
+}
+
+.db-multigrid-container-inner .h2{
+    padding: 10px 0px;
+}
+
+@media only screen and (max-width:1200px){
+    
+}
