@@ -1,0 +1,16 @@
+.db-container-two-buttons{
+    background: url(assets/images/section-bg1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.db-two-buttons{
+    text-align: center;
+    margin: auto;
+    max-width: 70%;
+}
+
+.db-two-buttons-span{
+    font-size: 24px;
+}

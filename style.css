@@ -34,6 +34,10 @@ ul, li{
     color: #95171c;
 }
 
+.h2--white{
+    color: #fff;
+}
+
 .h5{
     font-family: var(--poppins);
     font-weight: 700;
@@ -78,12 +82,17 @@ ul, li{
     background: #ed1c24;
 }
 
+.db-cta-button--white {
+    border: 1px solid #fff;
+    background: #fff;
+    color: #95171C;
+}
+
 .db-text{
     font-family: var(--poppins);
     font-weight: 400;
     font-size: 18px;
     line-height: 100%;
-    /* text-align: center; */
     color: #fff;
     margin-bottom: 30px;
 }
